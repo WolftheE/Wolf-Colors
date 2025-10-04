@@ -88,12 +88,12 @@ If you have any errors make sure all of this is installed
 1. In Vivaldi go to themes and click on Import theme
 2. Go to `other_themes` and chose `Vivaldi-wolf-colors-dark.zip`
 3. Apply the theme and enjoy
-> 4. (Optional) You can download a custom Vivaldi css mod (here)[https://github.com/WolftheE/Another-Vivaldi-css-theme]
+> 4. (Optional) You can download a custom Vivaldi css mod [here](https://github.com/WolftheE/Another-Vivaldi-css-theme)
 
 
+
+I also recomend the [Fluent icon theme](https://github.com/vinceliuice/Fluent-icon-theme) but you can use whatever you like
 <p>The font I use is `Roboto` becuase everyone loves the font :)</p>
-<p>I also recomend the [Fluent icon theme](https://github.com/vinceliuice/Fluent-icon-theme) but you can use whatever you like </p>
-
 
 
 
