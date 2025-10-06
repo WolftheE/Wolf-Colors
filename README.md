@@ -24,6 +24,11 @@
     <img width="49%" src=".photo/cinnamon_desktop.png" hspace="0" >
 </p>
 
+<h1 align="center">
+  <br>
+</h1>
+<img src=.photo/cava_desktop.png alt="Main Photo here.png">
+
 > Wallpapers are in the `wallpapers` folder
 
 
@@ -93,7 +98,7 @@ If you have any errors make sure all of this is installed
 
 
 I also recomend the [Fluent icon theme](https://github.com/vinceliuice/Fluent-icon-theme) but you can use whatever you like
-<p>The font I use is `Roboto` becuase everyone loves the font :)</p>
+<p>The font I use is `Roboto` because everyone loves the font :)</p>
 
 
 
